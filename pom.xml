@@ -10,10 +10,22 @@
 	</parent>
 	<groupId>com.hrms</groupId>
 	<artifactId>hrms-common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>hrms-common</name>
 	<description>Common project for Hrms </description>
 	<url/>
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/manishnupt/hrms-common</url>
+		</repository>
+		<snapshotRepository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/manishnupt/hrms-common</url>
+		</snapshotRepository>
+	</distributionManagement>
 	<licenses>
 		<license/>
 	</licenses>

@@ -18,12 +18,12 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/manishnupt/hrms-commons</url>
+			<url>https://maven.pkg.github.com/manishnupt/hrms-common</url>
 		</repository>
 		<snapshotRepository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/manishnupt/hrms-commons</url>
+			<url>https://maven.pkg.github.com/manishnupt/hrms-common</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<licenses>
